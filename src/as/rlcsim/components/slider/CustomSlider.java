@@ -19,9 +19,8 @@ import as.rlcsim.lex.Lex;
 
 public class CustomSlider extends JPanel implements ChangeListener,
 		ActionListener {
-
+	// komentarztestowy
 	private static final long serialVersionUID = 1L;
-
 	JSlider slider;
 	JButton addButton = new JButton("*10");
 	JButton subButton = new JButton("/10");
